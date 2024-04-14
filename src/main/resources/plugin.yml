@@ -1,0 +1,9 @@
+name: InsaneListeners
+version: '${project.version}'
+main: it.n1ckcode.insanelisteners.InsaneListeners
+author: N1ckCode
+description: Manage easily your server's listeners
+commands:
+  insanelisteners:
+    aliases:
+      - listenerscore

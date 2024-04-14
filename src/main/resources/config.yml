@@ -1,0 +1,34 @@
+#############################################################################################
+#                                                                                           #
+#                             InsaneListeners Configuration File                            #
+#                                             v1.0                                          #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#  - If you need assistance, contact @onEnable on Telegram or "n1ckcode" on Discord         #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#############################################################################################
+
+
+enable-join-message: true
+
+enable-quit-message: true
+
+disable-block-place: false
+
+disable-block-break: false
+
+disable-hunger-lose: false
+
+disable-player-pickup-item: false
+
+disable-player-drop-item: false
+
+disable-player-hit: false
+
+enable-first-join-message: true #The join broadcast will be sent only if the player hasn't played before

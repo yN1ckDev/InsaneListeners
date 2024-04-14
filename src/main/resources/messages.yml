@@ -1,0 +1,19 @@
+#############################################################################################
+#                                                                                           #
+#                             InsaneListeners Configuration File                            #
+#                                             v1.0                                          #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#  - If you need assistance, contact @onEnable on Telegram or "n1ckcode" on Discord         #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#                                                                                           #
+#############################################################################################
+
+join-message: "&8[&cInsaneListeners&8] &aWelcome %player% on &2ServerName!"
+quit-message: "&8[&cInsaneListeners&8] &cGoodbye %player% :("
+first-join-message: "&8[&cInsaneListeners&8] &c%player% &7is joined for the first time!!"
